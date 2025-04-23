@@ -1,0 +1,55 @@
+_repo: Following-darkness_75675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reid, Forrest
+    birthdate: 1875
+    deathdate: 1947
+    gutenberg_agent_id: '49537'
+    url: http://www.gutenberg.org/2009/agents/49537
+    wikipedia: https://en.wikipedia.org/wiki/Forrest_Reid
+description: 'Reading ease score: 80.2 (6th grade). Easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Literature'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75675'
+language: en
+pgterms:marc904: https://archive.org/details/followingdarknes00reid
+pgterms:marc905: 20180721140945reid
+pgterms:marc906: '1912'
+pgterms:marc907: GB
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bEdward Arnold, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'First loves -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Ireland -- Fiction'
+- !lcc 'PR'
+- GITenberg
+summary: '"Following Darkness" by Forrest Reid is a novel written in the early 20th
+  century. The narrative revolves around an unfinished autobiography of Peter Waring,
+  a young man who reflects on his life, his friendships, and his experiences, particularly
+  his relationship with the world of art and the influences that shape his identity.
+  The book delves into Peter''s introspective thoughts, emotional struggles, and his
+  ambivalence towards societal norms and personal connections.  The opening of "Following
+  Darkness" presents a reflective Peter Waring, caught between the memories of his
+  childhood and the present moment in Italy where he is staying. As he attempts to
+  immerse himself in the task of writing, he finds himself instead reminiscing about
+  his past, exploring themes of youth, art, and personal longing. The narrative is
+  intertwined with encounters, such as the poignant memories of his friend Owen Gill
+  and familial relationships that reveal Peter''s complex feelings towards love and
+  creativity. Through a series of vivid impressions and experiences, Peter navigates
+  his connections and aspirations, setting the stage for a deeper exploration of identity
+  and artistic expression throughout the text. (This is an automatically generated
+  summary.)'
+title: Following darkness
+url: http://www.gutenberg.org/ebooks/75675
