@@ -1,5 +1,8 @@
 _repo: Following-darkness_75675
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75675-h/images/cover.jpg
 creator:
   author:
     agent_name: Reid, Forrest
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49537
     wikipedia: https://en.wikipedia.org/wiki/Forrest_Reid
 description: 'Reading ease score: 80.2 (6th grade). Easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75675#Following-darkness
 gutenberg_bookshelf:
 - 'Browsing: Literature'
 - 'Browsing: Fiction'
